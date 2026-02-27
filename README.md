@@ -1,2 +1,2 @@
 # Java-Core-telu
-A repo for core java
+A repo for core java practice
